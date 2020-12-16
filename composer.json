@@ -3,7 +3,7 @@
     "description": "Kumpulan perintah-perintah (commands) CLI CodeIgniter 4",
     "type": "library",
     "require": {
-        "codeigniter4/framework": "dev-master",
+        "codeigniter4/framework": "^4",
         "php": "^7.3|^8.0"
     },
     "license": "MIT",
@@ -13,7 +13,7 @@
             "email": "talk.windows.inblog@live.co.uk"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
 	"prefer-stable": "true",
     "autoload": {
         "psr-4": {
