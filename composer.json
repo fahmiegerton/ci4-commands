@@ -13,7 +13,7 @@
             "email": "talk.windows.inblog@live.co.uk"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 	"prefer-stable": "true",
     "autoload": {
         "psr-4": {
